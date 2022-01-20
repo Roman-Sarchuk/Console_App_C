@@ -1,2 +1,2 @@
-# Console_App_C_UA_RU_ENG
+# Console_App_C UA/RU/ENG
 Template for C language with Cyrillic support
