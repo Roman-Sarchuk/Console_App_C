@@ -6,7 +6,7 @@ int main() {
 	SetConsoleCP(1251);
 
 	printf("Hello, world!\n");
-	printf("Привіт, світ!");
+	printf("ГЏГ°ГЁГўВіГІ, Г±ГўВіГІ!");
 
 	return 0;
 }
