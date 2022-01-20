@@ -1,2 +1,2 @@
-# Console_App_C_UA
-Template for C language with Cyrillic (Ukrainian) support
+# Console_App_C_UA_RU_ENG
+Template for C language with Cyrillic support
